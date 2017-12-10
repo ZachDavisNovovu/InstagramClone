@@ -24,7 +24,7 @@ List of  **Required Stories**  completed:
 ## Video Walkthrough Part I  
 
 Here's a walkthrough of implemented Login Improved stories:
-<img src='https://github.com/kddior/InstagramClone/blob/master/DemoINstaPartII' title='Part1' width='' alt='Video Walkthrough' />
+<img src='https://github.com/kddior/InstagramClone/blob/master/DemoINstaPartII.gif' title='Part1' width='' alt='Video Walkthrough' />
 
 <img src='https://github.com/kddior/InstagramClone/blob/master/DemoINsta.gif' title='Part1' width='' alt='Video Walkthrough' />
 
